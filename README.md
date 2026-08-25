@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rudrant-Joshi/LCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Rudrant-Joshi/LCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Rudrant-Joshi/LCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rudrant-Joshi/LCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rudrant-Joshi/LCode/tree/master/0283-move-zeroes) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudrant-Joshi/LCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rudrant-Joshi/LCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
