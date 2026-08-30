@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rudrant-Joshi/LCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rudrant-Joshi/LCode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Rudrant-Joshi/LCode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rudrant-Joshi/LCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rudrant-Joshi/LCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrant-Joshi/LCode/tree/master/1480-running-sum-of-1d-array) |
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Rudrant-Joshi/LCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrant-Joshi/LCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
