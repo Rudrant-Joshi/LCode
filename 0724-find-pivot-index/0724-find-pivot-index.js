@@ -1,9 +1,11 @@
 var pivotIndex = function(nums) {
-    for (let i = 0; i < nums.length; i++) {
-        let lsum = 0, rsum = 0;
-        for (let j = i - 1; j >= 0; j--) lsum += nums[j];
-        for (let j = i + 1; j < nums.length; j++) rsum += nums[j];
-        if (lsum === rsum) return i;
+    let total = nums.reduce((sum, num) => sum + num, 0);
+    let lsum = 0;
+
+    for(let i=0; i<nums.length; i++){
+        let rsum = total-nums[i]-lsum;
+        if(lsum == rsum) return i
+        lsum += nums[i]
     }
-    return -1;
+    return -1
 };
