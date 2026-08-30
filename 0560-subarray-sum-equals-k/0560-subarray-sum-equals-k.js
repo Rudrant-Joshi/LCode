@@ -4,7 +4,6 @@ var subarraySum = function(nums, k) {
         let sum = 0
             for(let j=i; j<nums.length; j++){
                 sum += nums[j]
-
                 if(sum === k) count++
             }
     }
