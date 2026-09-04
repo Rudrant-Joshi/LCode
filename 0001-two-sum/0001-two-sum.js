@@ -1,9 +1,8 @@
 var twoSum = function(nums, target) {
-        for ( i = 0; i < nums.length; i++) {
-            for ( j = i + 1; j < nums.length; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return  [i, j];
-                }
-            }
-        }
-};
+  let map = new Map();
+
+  for(let i=0; i<nums.length; i++ ){
+    if(map.has(target-nums[i]))  return [i, map.get(target-nums[i])]
+    else map.set(nums[i], i)
+  }
+}
