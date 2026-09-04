@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rudrant-Joshi/LCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rudrant-Joshi/LCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Rudrant-Joshi/LCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudrant-Joshi/LCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudrant-Joshi/LCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rudrant-Joshi/LCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Rudrant-Joshi/LCode/tree/master/0724-find-pivot-index) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rudrant-Joshi/LCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rudrant-Joshi/LCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudrant-Joshi/LCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Rudrant-Joshi/LCode/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudrant-Joshi/LCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rudrant-Joshi/LCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rudrant-Joshi/LCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudrant-Joshi/LCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rudrant-Joshi/LCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudrant-Joshi/LCode/tree/master/0349-intersection-of-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudrant-Joshi/LCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rudrant-Joshi/LCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rudrant-Joshi/LCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rudrant-Joshi/LCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Rudrant-Joshi/LCode/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
