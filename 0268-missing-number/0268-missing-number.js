@@ -1,20 +1,9 @@
-// 268. Missing Number
 var missingNumber = function(nums) {
-    let set = new Set(nums)
-    let count=0; let miss=0;
-    
-    for(let num of nums){
-        if(!set.has(0)){
-             miss = 0
-             break
-        }
-        
-        if(set.has(count+1)) count++
+    const set = new Set(nums);
 
-        else {
-            miss = count+1
-            break
+    for (let i = 0; i <= nums.length; i++) {
+        if (!set.has(i)) {
+            return i;
         }
     }
-    return miss
 };
