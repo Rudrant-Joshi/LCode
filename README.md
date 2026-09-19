@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Rudrant-Joshi/LCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rudrant-Joshi/LCode/tree/master/1929-concatenation-of-array) |
 ## Matrix
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rudrant-Joshi/LCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudrant-Joshi/LCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Rudrant-Joshi/LCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rudrant-Joshi/LCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudrant-Joshi/LCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rudrant-Joshi/LCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
