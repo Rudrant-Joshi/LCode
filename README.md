@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rudrant-Joshi/LCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rudrant-Joshi/LCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Rudrant-Joshi/LCode/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rudrant-Joshi/LCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rudrant-Joshi/LCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrant-Joshi/LCode/tree/master/1480-running-sum-of-1d-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudrant-Joshi/LCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rudrant-Joshi/LCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Rudrant-Joshi/LCode/tree/master/0389-find-the-difference) |
+| [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudrant-Joshi/LCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Quicksort
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rudrant-Joshi/LCode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
