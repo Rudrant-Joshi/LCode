@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rudrant-Joshi/LCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Rudrant-Joshi/LCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rudrant-Joshi/LCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Rudrant-Joshi/LCode/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rudrant-Joshi/LCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudrant-Joshi/LCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Rudrant-Joshi/LCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Rudrant-Joshi/LCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Rudrant-Joshi/LCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Rudrant-Joshi/LCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rudrant-Joshi/LCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudrant-Joshi/LCode/tree/master/0217-contains-duplicate) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rudrant-Joshi/LCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Rudrant-Joshi/LCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rudrant-Joshi/LCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Rudrant-Joshi/LCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rudrant-Joshi/LCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Rudrant-Joshi/LCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Rudrant-Joshi/LCode/tree/master/0165-compare-version-numbers) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rudrant-Joshi/LCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Rudrant-Joshi/LCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rudrant-Joshi/LCode/tree/master/0217-contains-duplicate) |
