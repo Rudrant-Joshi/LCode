@@ -1,12 +1,17 @@
 var sortColors = function(nums) {
-    for(let i=0; i<nums.length; i++){
-        for(let j=0; j<nums.length-i-1; j++){
-            if(nums[j] > nums[j+1]){
-                let temp = nums[j];
-                nums[j] = nums[j+1];
-                nums[j+1] = temp;
-            }
-        }
+let low = 0
+let mid  = 0
+let high = nums.length-1
+while(mid <= high){
+    if(nums[mid] === 0){
+         [nums[low],nums[mid]] = [nums[mid],nums[low]]
+         low++
+         mid++
+    }else if(nums[mid] === 1){
+        mid++
+    }else{
+        [nums[mid],nums[high]] = [nums[high],nums[mid]]
+        high--
     }
-    return nums;
+}
 };
