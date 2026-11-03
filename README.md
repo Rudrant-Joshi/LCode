@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rudrant-Joshi/LCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rudrant-Joshi/LCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rudrant-Joshi/LCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Rudrant-Joshi/LCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rudrant-Joshi/LCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Rudrant-Joshi/LCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Rudrant-Joshi/LCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Rudrant-Joshi/LCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rudrant-Joshi/LCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rudrant-Joshi/LCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
