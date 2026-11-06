@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rudrant-Joshi/LCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Rudrant-Joshi/LCode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/Rudrant-Joshi/LCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rudrant-Joshi/LCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rudrant-Joshi/LCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Rudrant-Joshi/LCode/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/Rudrant-Joshi/LCode/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
