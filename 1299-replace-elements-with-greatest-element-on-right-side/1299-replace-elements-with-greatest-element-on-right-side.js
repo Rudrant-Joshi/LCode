@@ -1,15 +1,11 @@
 var replaceElements = function(arr) {
-    for (let i = 0; i < arr.length - 1; i++) {
-        let max = -1;
+    let max = -1;
 
-        for (let j = i + 1; j < arr.length; j++) {
-            max = Math.max(max, arr[j]);
-        }
-
+    for (let i = arr.length - 1; i >= 0; i--) {
+        let temp = arr[i];
         arr[i] = max;
+        max = Math.max(max, temp);
     }
-
-    arr[arr.length - 1] = -1;
 
     return arr;
 };
