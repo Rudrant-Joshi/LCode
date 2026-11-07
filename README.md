@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rudrant-Joshi/LCode/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0941-valid-mountain-array) |
+| [1051-height-checker](https://github.com/Rudrant-Joshi/LCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Rudrant-Joshi/LCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rudrant-Joshi/LCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rudrant-Joshi/LCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Rudrant-Joshi/LCode/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
+| [1051-height-checker](https://github.com/Rudrant-Joshi/LCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rudrant-Joshi/LCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudrant-Joshi/LCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Quicksort
@@ -266,4 +268,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rudrant-Joshi/LCode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Rudrant-Joshi/LCode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Rudrant-Joshi/LCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
