@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rudrant-Joshi/LCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rudrant-Joshi/LCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Rudrant-Joshi/LCode/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Rudrant-Joshi/LCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/Rudrant-Joshi/LCode/tree/master/0941-valid-mountain-array) |
 | [1051-height-checker](https://github.com/Rudrant-Joshi/LCode/tree/master/1051-height-checker) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Rudrant-Joshi/LCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Rudrant-Joshi/LCode/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Rudrant-Joshi/LCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Rudrant-Joshi/LCode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/Rudrant-Joshi/LCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rudrant-Joshi/LCode/tree/master/1346-check-if-n-and-its-double-exist) |
