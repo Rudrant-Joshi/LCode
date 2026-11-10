@@ -8,11 +8,9 @@ var minSubArrayLen = function(target, nums) {
 
         while(sum>=target){
             minVal = Math.min(minVal, right-left+1)
-
             sum -= nums[left]
             left++
         }
     }
-
     return minVal === Infinity ? 0 : minVal;
 };
