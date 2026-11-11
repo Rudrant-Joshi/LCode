@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rudrant-Joshi/LCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Rudrant-Joshi/LCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rudrant-Joshi/LCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Rudrant-Joshi/LCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Rudrant-Joshi/LCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Rudrant-Joshi/LCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rudrant-Joshi/LCode/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Rudrant-Joshi/LCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rudrant-Joshi/LCode/tree/master/1929-concatenation-of-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rudrant-Joshi/LCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rudrant-Joshi/LCode/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Rudrant-Joshi/LCode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
