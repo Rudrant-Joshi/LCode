@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rudrant-Joshi/LCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Rudrant-Joshi/LCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rudrant-Joshi/LCode/tree/master/1929-concatenation-of-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rudrant-Joshi/LCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
 |  |
 | ------- |
