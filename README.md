@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rudrant-Joshi/LCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Rudrant-Joshi/LCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Rudrant-Joshi/LCode/tree/master/0844-backspace-string-compare) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rudrant-Joshi/LCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rudrant-Joshi/LCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sorting
 |  |
