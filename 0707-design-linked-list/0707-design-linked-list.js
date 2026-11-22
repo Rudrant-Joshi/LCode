@@ -31,22 +31,7 @@ MyLinkedList.prototype.addAtHead = function(val) {
 };
 
 MyLinkedList.prototype.addAtTail = function(val) {
-    let node = new Node(val);
-
-    if(this.head === null) {
-        this.head = node;
-    } 
-    else {
-        let curr = this.head;
-
-        while(curr.next !== null) {
-            curr = curr.next;
-        }
-
-        curr.next = node;
-    }
-
-    this.size++;
+    this.addAtIndex(this.size,val)
 };
 
 MyLinkedList.prototype.addAtIndex = function(index, val) {
