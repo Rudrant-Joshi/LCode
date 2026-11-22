@@ -22,23 +22,22 @@ MyLinkedList.prototype.get = function(index) {
 };
 
 MyLinkedList.prototype.addAtHead = function(val) {
-    let node = new Node(val);
-
-    node.next = this.head;
-    this.head = node;
-
-    this.size++;
+    this.addAtIndex(0, val);
 };
 
 MyLinkedList.prototype.addAtTail = function(val) {
-    this.addAtIndex(this.size,val)
+    this.addAtIndex(this.size, val);
 };
 
 MyLinkedList.prototype.addAtIndex = function(index, val) {
     if(index < 0 || index > this.size) return;
 
+    let node = new Node(val);
+
     if(index === 0) {
-        this.addAtHead(val);
+        node.next = this.head;
+        this.head = node;
+        this.size++;
         return;
     }
 
@@ -47,8 +46,6 @@ MyLinkedList.prototype.addAtIndex = function(index, val) {
     for(let i = 0; i < index - 1; i++) {
         curr = curr.next;
     }
-
-    let node = new Node(val);
 
     node.next = curr.next;
     curr.next = node;
